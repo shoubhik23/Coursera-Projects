@@ -15,3 +15,4 @@ All the projects undertaken in the Coursera Learning Platform with the certifica
 12) Mining Data to Extract and Visualize Insights
 13) Predict Future Product Prices Using Facebook Prophet
 14) Build Data Analysis tools using R and DPLYR
+15) Logistic Regression - A Sentiment Analysis Case Study
